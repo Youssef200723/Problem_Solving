@@ -24,11 +24,11 @@ int main()
         }
         if (ok)
         {
-            cout << "found";
+            cout << "found"<<endl;
         }
         else
         {
-            cout << "not found";
+            cout << "not found"<<endl;
         }
     }
 }
